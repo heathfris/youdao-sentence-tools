@@ -19,13 +19,25 @@
 
 ## 界面对比
 
-句子本每条英文原句右侧新增朗读喇叭。点击播放对应原文，不会勾选整条记录。
+### mini 浮窗
+
+同一句 `hello, everone`：扩展后增加“原文”英文朗读和句子收藏星标，原有译文朗读继续保留。
+
+| 扩展前（界面示意） | 安装扩展后（实际截图） |
+| --- | --- |
+| <a href="docs/images/mini-before-illustration.png"><img src="docs/images/mini-before-illustration.png" alt="原版 mini 界面示意：输入 hello, everone，仅有译文朗读和复制按钮" width="420"></a> | <a href="docs/images/mini-after.png"><img src="docs/images/mini-after.png" alt="扩展后的 mini 实际截图：同一句 hello, everone，新增原文朗读和句子收藏" width="420"></a> |
+
+mini 扩展前为参考原版工具栏、通过 AI 辅助还原的界面示意，并非卸载后实拍；扩展后为实际截图。[示意图制作提示词](docs/images/mini-before-illustration.prompt.txt)。
+
+### 句子本
+
+前后均展示同一条收藏内容。扩展后在原句右侧新增英语朗读喇叭，点击播放不会勾选整条记录。
 
 | 扩展前 | 安装扩展后 |
 | --- | --- |
-| <a href="docs/images/sentencebook-before.png"><img src="docs/images/sentencebook-before.png" alt="原版句子本：每条英文原句右侧没有朗读按钮" width="420"></a> | <a href="docs/images/sentencebook-after.jpg"><img src="docs/images/sentencebook-after.jpg" alt="安装扩展后的句子本：每条英文原句右侧新增英语朗读喇叭" width="420"></a> |
+| <a href="docs/images/sentencebook-before.png"><img src="docs/images/sentencebook-before.png" alt="原版句子本：收藏 Available everywhere you listen to podcasts!，原句右侧没有朗读按钮" width="420"></a> | <a href="docs/images/sentencebook-after.png"><img src="docs/images/sentencebook-after.png" alt="扩展后的句子本：同一条原句右侧新增英语朗读喇叭" width="420"></a> |
 
-以上为有道翻译 11.3.26.0 的实际界面截图。前后收藏内容和窗口尺寸不同，对比重点是右侧新增的朗读入口；点击图片可查看大图。
+句子本前后均为有道翻译 11.3.26.0 的实际截图。以上所有图片均可点击放大。
 
 ## 安装
 
