@@ -1,0 +1,12 @@
+/local/
+/dist/
+/original/
+/patched/
+/verification/
+node_modules/
+.env
+.env.*
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

@@ -1,0 +1,79 @@
+{
+  "version": "11.3.26.0",
+  "patchRevision": 5,
+  "executableSha256": "d6b63a62c202aecb9438f583493ecc148edef07ec43b0dca94fc17d8441b451c",
+  "sharedModule": {
+    "id": 69788,
+    "length": 8166
+  },
+  "themeOriginalBytes": 209,
+  "knownThemePatches": [
+    "ccb2e129b6549e6840e47bd5c5f48c5ddfd70c0686d40bb1701490c2371bf3b5",
+    "5daad2a4fbf14aa4b0a7fba2e0bf07af5a5a92ea9e363a0cd3fa88a9c40e18d3"
+  ],
+  "files": [
+    {
+      "path": "js/mini.js",
+      "name": "mini.js",
+      "original": "2c8c35c3ff10769115da407e3ca4f3bd6d1f488b7e35fae32a9dcae8a30e76ec"
+    },
+    {
+      "path": "ydDict/mini.html",
+      "name": "mini.html",
+      "original": "f5b588d396f187acf205765b070489dda90640f9de7adba98cb54a5bc8af5d03"
+    },
+    {
+      "path": "js/mainV2.js",
+      "name": "mainV2.js",
+      "original": "74bfdd6aec366336ae16889c0b93789543a991d95992b96eb500f3426c25788b"
+    },
+    {
+      "path": "index_v2.html",
+      "name": "index_v2.html",
+      "original": "31b2abc0b9cf348b9634659fb502d3016b00961c08e1a5597c65760a59af1592"
+    },
+    {
+      "path": "libs/theme-init.js",
+      "name": "theme-init.js",
+      "original": "88526718fff285d37900abb5c6bffc3c0cfa26a80b66152bcb7917d0b10e501e"
+    }
+  ],
+  "dependencies": [
+    {
+      "path": "js/1965.js",
+      "sha256": "1330a922e75bf7ae65e2d7102ce87dfa0a5ba05d896ba0041e586ff9f6214793"
+    },
+    {
+      "path": "js/2651.js",
+      "sha256": "e409e835f90992b5992c87822c0526bf817dd468e0f4bec11cf20bd4e10bad2e"
+    },
+    {
+      "path": "js/7951.js",
+      "sha256": "de22909641208cb03cb298c4d75662fa0547fefd32cee613ce5494679d3684b2"
+    },
+    {
+      "path": "js/chunk-vendors.js",
+      "sha256": "ce92784019926669b62a6f985973504592e7e56c82385c199dfdff59298cf904"
+    },
+    {
+      "path": "js/3820.js",
+      "sha256": "e078069d02f36d01fcad19fbc7af48d33cd08540127510b4085213c5c8a54a44"
+    },
+    {
+      "path": "js/2268.js",
+      "sha256": "929418882089ac3d8addadef8ab386d5d71a19c3333f680e83f100ee8418c67f"
+    },
+    {
+      "path": "js/runtime.js",
+      "sha256": "ea87dbb1e2380b97c226ea8c10326a190f132afacd69c121386558afbb7241f9"
+    },
+    {
+      "path": "css/3820.css",
+      "sha256": "55e210057cdb570387aac3108dcb13ad53cf2e615e8e5f2258694ab83e89cd40"
+    },
+    {
+      "path": "css/2268.css",
+      "sha256": "a3098337f47b5fa994023239403fcd433fb4422e5cb8bda11ca5c21ccc637dee"
+    }
+  ]
+}
