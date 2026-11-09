@@ -27,8 +27,6 @@
 | --- | --- |
 | <a href="docs/images/mini-before-illustration.png"><img src="docs/images/mini-before-illustration.png" alt="原版 mini 界面示意：输入 hello, everone，仅有译文朗读和复制按钮" width="420"></a> | <a href="docs/images/mini-after.png"><img src="docs/images/mini-after.png" alt="扩展后的 mini 实际截图：同一句 hello, everone，新增原文朗读和句子收藏" width="420"></a> |
 
-mini 扩展前为参考原版工具栏、通过 AI 辅助还原的界面示意，并非卸载后实拍；扩展后为实际截图。[示意图制作提示词](docs/images/mini-before-illustration.prompt.txt)。
-
 ### 句子本
 
 前后均展示同一条收藏内容。扩展后在原句右侧新增英语朗读喇叭，点击播放不会勾选整条记录。
