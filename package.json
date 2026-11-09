@@ -16,5 +16,6 @@
   },
   "bugs": {
     "url": "https://github.com/heathfris/youdao-sentence-tools/issues"
-  }
+  },
+  "license": "MIT"
 }

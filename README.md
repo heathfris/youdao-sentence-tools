@@ -1,5 +1,7 @@
 # Youdao Sentence Tools
 
+[![Test](https://github.com/heathfris/youdao-sentence-tools/actions/workflows/test.yml/badge.svg)](https://github.com/heathfris/youdao-sentence-tools/actions/workflows/test.yml)
+
 为 Windows 有道翻译的 mini 浮窗补上句子收藏与英文原文朗读，并为“单词本 → 句子”增加逐条朗读按钮。
 
 当前适配 **11.3.26.0**，界面功能对应已验证的**修订 5**。项目在本机读取客户端资源、生成补丁和原始文件备份。
@@ -83,3 +85,7 @@ npm run build -- 'D:\Apps\Youdao\Dict'
 本仓库发布新增的扩展、构建工具和测试。原始客户端文件、包含客户端模块的生成物、本机账号数据和诊断记录保留在使用者本机。
 
 这是面向上述客户端版本的个人扩展项目。
+
+## 许可
+
+本仓库新增的扩展、工具与测试按 [MIT License](LICENSE) 发布。本机有道客户端及构建时读取的原模块适用各自的许可与权利声明。
