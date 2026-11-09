@@ -17,6 +17,16 @@
 
 朗读沿用客户端现有的 `VoicePlayer`、英美音和语速设置。搜索高亮、长句折叠、排序和批量选择继续使用原有组件。
 
+## 界面对比
+
+句子本每条英文原句右侧新增朗读喇叭。点击播放对应原文，不会勾选整条记录。
+
+| 扩展前 | 安装扩展后 |
+| --- | --- |
+| <a href="docs/images/sentencebook-before.png"><img src="docs/images/sentencebook-before.png" alt="原版句子本：每条英文原句右侧没有朗读按钮" width="420"></a> | <a href="docs/images/sentencebook-after.jpg"><img src="docs/images/sentencebook-after.jpg" alt="安装扩展后的句子本：每条英文原句右侧新增英语朗读喇叭" width="420"></a> |
+
+以上为有道翻译 11.3.26.0 的实际界面截图。前后收藏内容和窗口尺寸不同，对比重点是右侧新增的朗读入口；点击图片可查看大图。
+
 ## 安装
 
 需要 **Windows、匹配指纹的有道翻译 11.3.26.0、Node.js 22 或以上**。项目没有第三方 npm 依赖。
